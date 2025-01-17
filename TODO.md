@@ -1,5 +1,5 @@
 [x] Criar Projeto Front
-[] Integrar ao Github
+[x] Integrar ao Github
 [x] Criar Teste
-[] Criar Pipeline
+[x] Criar Pipeline
 [] Integrar ao CodeCov
