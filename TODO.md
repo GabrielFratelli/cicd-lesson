@@ -2,4 +2,5 @@
 [x] Integrar ao Github
 [x] Criar Teste
 [x] Criar Pipeline
-[] Integrar ao CodeCov
+[x] Integrar ao CodeCov
+[] Aprender a desativar o botão de merge caso de erro na pipe
