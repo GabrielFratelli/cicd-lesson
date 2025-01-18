@@ -1,6 +1,6 @@
 ## Sobre ✔️
 
-Exemplo de básico sobre Continuous Integration (CI) — integração contínua — e a Continuous Delivery (CD) — entrega contínua.
+Exemplo de básico sobre Continuous Integration (CI) — integração contínua — e a Continuous Delivery (CD) — entrega contínua em JavaScript.
 <br>
 <br>
 <a href="https://github.com/resources/articles/devops/ci-cd" target="_blank">Clique aqui para acessar uma das Documentações sobre CI/CD</a>
@@ -28,7 +28,7 @@ Para rodar este projeto é necessário ter instalado na sua máquina as seguinte
 1. Escolher o emulador da sua preferência.
 2. Instale as dependências: `npm install` ou `yarn`
 3. Rodar teste `yarn test`
-4. Startar a aplicação: `yarn start`
+4. Startar a aplicação: `npm run start` ou `yarn start`
 
 
 ## Resultado 📷
